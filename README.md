@@ -2,7 +2,7 @@
 
 Ranking page : http://ctf.nullcon.net/scoreboard.php
 
-![](Team%20Logo.png)
+ 
 
 ### All writeups
 * ["Twitter search" (Recon) 200](recon_1)
